@@ -29,7 +29,6 @@ document.addEventListener('DOMContentLoaded', () => {
       stopTimer();
     }
   }
-
   function stopTimer() {
     isRunning = false;
     startButton.textContent = 'start';
